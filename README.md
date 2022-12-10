@@ -14,7 +14,7 @@
 -->
 ### Hi there, I'm Ikwemogena 👋
 ## I'm a Software Engineer
-- 🔭 I’m currently working on skill improvement projects
+- 🔭 I’m currently working on ALX projects
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on projects
 - ✅ Q4 Goals: Contribute to Open Source Projects
