@@ -14,10 +14,10 @@
 -->
 ### Hi there, I'm Ikwemogena 👋
 ## I'm a Software Engineer
-- 🔭 I’m currently working on ALX projects
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on projects
-- ✅ Q4 Goals: Contribute to Open Source Projects
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on fintech projects
+- ✅ Q1 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I love listening to music
 
 
