@@ -14,9 +14,9 @@
 -->
 ### Hi there, I'm Ikwemogena 👋
 ## I'm a Software Engineer
-- 🔭 I’m currently working with Angular
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on fintech projects
+- 🔭 I’m currently working with ....
+- 🌱 I’m currently learning ....
+- 👯 I’m looking to collaborate on  projects
 - ✅ Q1 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I love listening to music,
 
