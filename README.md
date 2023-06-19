@@ -14,11 +14,11 @@
 -->
 ### Hi there, I'm Ikwemogena 👋
 ## I'm a Software Engineer
-- 🔭 I’m currently working with ....
-- 🌱 I’m currently learning ....
-- 👯 I’m looking to collaborate on  projects
-- ✅ Q1 Goals: Contribute to Open Source Projects
-- ⚡ Fun fact: I love listening to music,
+- 🔭 I’m currently working with NUXT & Python for Data
+- 🌱 I’m currently learning NUXT, NODE.js
+- 👯 I’m looking to collaborate on frontend projects
+- ✅ Q3 Goals: Contribute to Open Source Projects
+- ⚡ Fun fact: When I am not coding, I am volunteering for social causes and making a positive impact in the community. 🤝💙
 
 
 ### Connect with me:
